@@ -1,0 +1,30 @@
+.env
+
+# Compiled files
+*.exe
+*.dll
+*.out
+*.test
+*.prof
+
+# Dependency directories
+/vendor/
+/go.sum
+/go.mod
+
+# Output directories
+/bin/
+/dist/
+/pkg/
+
+# IDE/Editor specific files
+.idea/
+.vscode/
+
+# System and temporary files
+*.log
+*.swp
+.DS_Store
+Thumbs.db
+
+*.sqlite
